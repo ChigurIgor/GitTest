@@ -1,1 +1,1 @@
-Изменение на сервере
+Server side changes
